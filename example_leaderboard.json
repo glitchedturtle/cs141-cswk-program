@@ -1,0 +1,54 @@
+{
+    "_id": "global",
+    "entries": [{
+        "_id": "99",
+        "name": "smelly steve",
+        "score": 12500.52734375,
+        "modified": 1648171046
+    }, {
+        "_id": "1340",
+        "name": "thomas shelby",
+        "score": 11000,
+        "modified": 1648071046
+    }, {
+        "_id": "888",
+        "name": "evil morty",
+        "score": 10433,
+        "modified": 1648070046
+    }, {
+        "_id": "888",
+        "name": "mr beanst",
+        "score": 9011,
+        "modified": 1647070046
+    }, {
+        "_id": "700",
+        "name": "colin the gamer",
+        "score": 9011,
+        "modified": 1547070046
+    }, {
+        "_id": "500",
+        "name": "visual studio code",
+        "score": 8445,
+        "modified": 1537070046
+    }, {
+        "_id": "200",
+        "name": "waffles review store",
+        "score": 8300,
+        "modified": 1447070046
+    }, {
+        "_id": "10",
+        "name": "hi",
+        "score": 500,
+        "modified": 1347075046
+    }, {
+        "_id": "10",
+        "name": "old bees",
+        "score": 100,
+        "modified": 1347075046
+    }, {
+        "_id": "10",
+        "name": "huey",
+        "score": 15,
+        "modified": 1347075046
+    }]
+}

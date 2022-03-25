@@ -6,9 +6,20 @@ extra-source-files:
 
 dependencies:
 - base >= 4.7 && < 5
+- discord-haskell
+- text
+- mtl
+- mongoDB
+- time
+- random
+- containers
 
 library:
-  source-dirs: src
+  source-dirs:
+  - src
+  - src/util
+  - src/commands
+  - src/store
 
 executables:
   cswk-program-exe:
